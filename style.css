@@ -10,7 +10,7 @@ body {
 
 /*NAVBAR*/
 .navbar {
-    background-color: #55552b;/*#3F4437; /*#c0c0c0; /*#006400; /*#31b0d5; */
+    background-color: #444422;/*#3F4437; /*#c0c0c0; /*#006400; /*#31b0d5; */
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
@@ -35,7 +35,7 @@ body {
 /*JUMBOTRON*/
 .jumbotron {
     height: 100vh; /*height to 100% of view height*/
-    background: #55552b;/*#3F4437; /*#006400; /*#31b0d5; /*  /*background color to sliver, green, blue*/
+    background: #444422;/*#3F4437; /*#006400; /*#31b0d5; /*  /*background color to sliver, green, blue*/
     margin-bottom: 0; /*no bottom margin*/
 
     display: flex;
@@ -145,7 +145,7 @@ body {
 h2 {
     font-weight: 200;
     font-size: 2rem;
-    color: #55552b;/*#3F4437; /* #006400; /*#31b0d5; */
+    color: #444422;/*#3F4437; /* #006400; /*#31b0d5; */
     text-transform: uppercase;
     text-align: center;
 }
@@ -240,7 +240,7 @@ h4 {
 
 /*CONTACT*/
 .blue {
-    background: #55552b;/*#3F4437; /* #006400/*#3498db */;
+    background: #444422;/*#3F4437; /* #006400/*#3498db */;
     text-align: center;
 }
 
@@ -274,7 +274,7 @@ h4 {
     border-radius: 4px;
     padding: 5px 10px;
     border: none;
-    color: #55552b/*#3F4437; /* #006400; /*#3498db; */
+    color: #444422;/*#3F4437; /* #006400; /*#3498db; */
     font-weight: 700;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
     -webkit-transition: .5s ease all;
